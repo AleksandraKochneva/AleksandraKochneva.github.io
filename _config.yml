@@ -1,2 +1,65 @@
-title: Aleksandra Kochneva
-theme: minima
+# Basic Site Settings
+title: John Doe Portfolio  # Your site title
+description: Welcome to my professional portfolio  # Site description (appears in meta tags)
+theme: jekyll-theme-cayman  # You can replace this with any Jekyll theme or remote theme
+
+# URL Settings
+baseurl: ""  # The subpath of your site, e.g. /blog
+url: "https://username.github.io"  # The base hostname & protocol for your site
+
+# Author Information
+author:
+  name: John Doe
+  email: johndoe@example.com
+  twitter_username: johndoe  # Optional: Add social media handles
+  github_username: johndoe
+
+# Portfolio Navigation Links
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
+
+# Social Media Links (Optional)
+social_links:
+  - name: GitHub
+    url: https://github.com/johndoe
+    icon: fab fa-github  # Use font-awesome icons
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/johndoe
+    icon: fab fa-linkedin
+  - name: Twitter
+    url: https://twitter.com/johndoe
+    icon: fab fa-twitter
+
+# Analytics (Optional)
+google_analytics: UA-XXXXXXXXX-X  # Google Analytics tracking ID
+
+# Theme-specific settings (customize based on the chosen theme)
+footer_text: "© 2024 John Doe. All Rights Reserved."
+
+# Exclude from Processing (files and directories that should not be processed by Jekyll)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
+# Build Plugins
+plugins:
+  - jekyll-feed  # Provides RSS feed generation
+  - jekyll-seo-tag  # Adds SEO tags to improve search engine ranking
+  - jekyll-sitemap  # Generates a sitemap for your site
+
+# Markdown Processor
+markdown: kramdown
+
+# Optional: Customize the theme further by adding CSS or overriding layouts
+# Add custom CSS in the assets folder
+sass:
+  style: compressed
+
+# Deployment
+# This is where GitHub Pages builds your site.
+github:
+  is_project_page: false
