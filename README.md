@@ -4,5 +4,5 @@
 Biomedical Informational Technologies,MSc
 ### Work Experience
 Distribution channels manager @ Mindray
--project1!
--project2!
+- project1!
+- project2!
