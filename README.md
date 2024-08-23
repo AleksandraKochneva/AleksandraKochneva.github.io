@@ -16,7 +16,7 @@
 
 ## Projects
 ### Personal perfume recommender
-[GitHub Link]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/AleksandraKochneva/scent_recommender))
+[GitHub Link]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/AleksandraKochneva/scent_recommender)])
 Tools: Python, SQL, HTML, CSS, Flask, PostgreSQL, Pandas, Pymongo, BeautifulSoup, Requests
 Flask-based web application that parses data from open sources and predicts whether a user will like a perfume based on historical data and machine learning predictions (Random Forest, XGBoost).
  
