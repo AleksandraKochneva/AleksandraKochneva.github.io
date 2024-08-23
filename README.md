@@ -1,7 +1,7 @@
 # Data scientist
 
 ### Education
-Biomedical Informational Technologies,MSc
+IT in Biomedical Engineering,MSc
 ### Work Experience
 Distribution channels manager @ Mindray
 - project1!
