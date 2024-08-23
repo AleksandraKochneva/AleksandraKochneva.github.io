@@ -1,20 +1,18 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Bash
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Biomedical Engineering	| Moscow Bauman State Technical University (_July 2014_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Distribution channels manager  @ Mindray (_September 2019 - May 2022_)**
+- Conducted data collection, processing, and analysis for distribution channels evaluation, control and management
+- Developed and implemented dashboards for daily sales monitoring and analysis
+- Conducted data collection, processing, and analysis to develop and refine Ultrasound Imaging Systems pricing strategy 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Marketing manager @ Intermedica (_July 2014 - September 2019_)**
+- Conducted comprehensive data collection, processing, and analysis to develop and optimize pricing strategies and sales forecasts for medical analyzers and reagents
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
